@@ -1,10 +1,10 @@
 # 202503 Zig Project
 
-## Zig Android交叉编译示例
+## Zig在Android平台的交叉编译示例
 
 该仓库包含一个示例，展示了如何将一个简单的Zig应用程序交叉编译为Android平台应用。
 
-### 项目概述
+### 示例概述
 
 该示例展示了通过Zig语言将一个简单的 `main.zig` 文件编译为Android可执行文件，并在Android设备上运行的文件过程。
 
